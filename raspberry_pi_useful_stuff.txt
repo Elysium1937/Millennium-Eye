@@ -1,0 +1,2 @@
+1. calibrate camera with v4l2ucp
+2. 
