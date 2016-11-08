@@ -1,0 +1,43 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CAM_ANGLE_HORI	Falafel Vision Processing.py	/^CAM_ANGLE_HORI = 116$/;"	v
+CAM_ANGLE_HORI	Falafel.py	/^CAM_ANGLE_HORI = 116$/;"	v
+CAM_ANGLE_VERT	Falafel Vision Processing.py	/^CAM_ANGLE_VERT = 48$/;"	v
+CAM_ANGLE_VERT	Falafel.py	/^CAM_ANGLE_VERT = 48$/;"	v
+Falafel Vision Processing.py	Falafel Vision Processing.py	1;"	F
+Falafel.py	Falafel.py	1;"	F
+TAN_ANGLE_HORI	Falafel Vision Processing.py	/^TAN_ANGLE_HORI = CAM_ANGLE_HORI \/ 2$/;"	v
+TAN_ANGLE_HORI	Falafel.py	/^TAN_ANGLE_HORI = CAM_ANGLE_HORI \/ 2$/;"	v
+TAN_ANGLE_VERT	Falafel Vision Processing.py	/^TAN_ANGLE_VERT = CAM_ANGLE_VERT \/ 2$/;"	v
+TAN_ANGLE_VERT	Falafel.py	/^TAN_ANGLE_VERT = CAM_ANGLE_VERT \/ 2$/;"	v
+TMh	Falafel Vision Processing.py	/^TMh = 10.5$/;"	v
+TMh	Falafel.py	/^TMh = 10.5$/;"	v
+TMw	Falafel Vision Processing.py	/^TMw = 87 #reflector width in cm$/;"	v
+TMw	Falafel.py	/^TMw = 87 #reflector width in cm$/;"	v
+brightnessFiltering	Falafel Vision Processing.py	/^def brightnessFiltering(img):$/;"	f
+brightnessFiltering	Falafel.py	/^def brightnessFiltering(img):$/;"	f
+findCorners	Falafel Vision Processing.py	/^def findCorners(contour):$/;"	f
+findCorners	Falafel.py	/^def findCorners(contour):$/;"	f
+findDistance	Falafel Vision Processing.py	/^def findDistance(TP):$/;"	f
+findDistance	Falafel.py	/^def findDistance(TP):$/;"	f
+findDistanceFromCenterOfImage	Falafel Vision Processing.py	/^def findDistanceFromCenterOfImage(contour):$/;"	f
+findDistanceFromCenterOfImage	Falafel.py	/^def findDistanceFromCenterOfImage(contour):$/;"	f
+findWidth	Falafel Vision Processing.py	/^def findWidth(contour):$/;"	f
+findWidth	Falafel.py	/^def findWidth(contour):$/;"	f
+main	Falafel Vision Processing.py	/^def main():$/;"	f
+main	Falafel.py	/^def main():$/;"	f
+moveReflector	Falafel Vision Processing.py	/^def moveReflector(contour, distance_from_center):$/;"	f
+moveReflector	Falafel.py	/^def moveReflector(contour, distance_from_center):$/;"	f
+publishToDashboard	Falafel Vision Processing.py	/^def publishToDashboard(distance, angle, vision_stop, sd):$/;"	f
+publishToDashboard	Falafel.py	/^def publishToDashboard(distance, angle, vision_stop, sd):$/;"	f
+shapeFiltering	Falafel Vision Processing.py	/^def shapeFiltering(img):$/;"	f
+shapeFiltering	Falafel.py	/^def shapeFiltering(img):$/;"	f
+sizeFiltering	Falafel Vision Processing.py	/^def sizeFiltering(contours):$/;"	f
+sizeFiltering	Falafel.py	/^def sizeFiltering(contours):$/;"	f
+testingtags.py	testingtags.py	1;"	F
+vision	Falafel Vision Processing.py	/^def vision(sd):$/;"	f
+vision	Falafel.py	/^def vision(sd):$/;"	f
